@@ -1,0 +1,7 @@
+Orgchart3: A pure HTML5 Orgchart Tree editor.
+
+See a running example at http://ayotli.com/orgchart3
+
+Final version might not work on current browsers since saveAs is not yet implemented; might work flawless in short.
+
+Meanwhile, you can replace function saveChart() with a server-side writer and downloader, or use an alternative code like Eli Grey's FileSaver.js: http://github.com/eligrey/FileSaver.js
